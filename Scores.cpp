@@ -1,8 +1,4 @@
-/*
-         Florida Institute Of Tecnology 
 
-
-*/
 #include "Scores.h"
 
 GameEntry::GameEntry(const std::string& n, int s)	// constructor
