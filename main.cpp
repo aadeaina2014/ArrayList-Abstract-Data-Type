@@ -1,5 +1,10 @@
+/**********************************************************************
+ECE 2552: Data Structures and Algorithms in C++
+FileName : StringLinkedList.h
+File Description: Application Driver file for evaluating ArrayList ADT
+Code Author :  Ayokunle Ade-Aina [aadeaina2014@my.fit.edu] (c)2016
+***********************************************************************/
 #include <cstdlib>
-//
 #include "Scores.h"
 using namespace::std;
 
